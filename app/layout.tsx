@@ -9,7 +9,7 @@ import Navbar from "@/components/navbar";
 const font = Urbanist({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Store",
+  title: "Store P",
   description: "Store",
 };
 
