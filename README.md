@@ -1,6 +1,6 @@
 # E-Commerce Store
 
- ***This is the main store to buy and sell your product. Visit the [admin app](https://ecom-admin-rudraux.vercel.app/) for more information.
+ ***This is the main store to buy and sell your product. Visit the [admin app](https://ecom-admin-rudraux.vercel.app/)
  to create admin here.***
 
 ## Tech stack
